@@ -138,7 +138,7 @@ Open `/src/app/app.component.html`:
 </ul>
 ```
 
-### 9. Run your app locally
+### 9. Run your app locally  
 
 ```bash
 ng serve
